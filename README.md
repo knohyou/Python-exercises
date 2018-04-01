@@ -1,5 +1,6 @@
 # Python-exercises
 
-A variety of python code for personal learning
+## A variety of python code for personal learning
 
-[Tic Tac Toe game](Milestone 1 - TicTacToe.ipynb)
+* Milestone 1 - TicTacToe.ipynb - Tic Tac Toe game utilizing multiple functions and lambda functions
+* Map, Filter, and Lambda functions.ipynb - Simple demonstration of using map, filter and lambda functions 
